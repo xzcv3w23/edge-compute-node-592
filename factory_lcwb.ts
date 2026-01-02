@@ -1,0 +1,1 @@
+const service_lcwb = <T>(args: T): T => { return args; };
