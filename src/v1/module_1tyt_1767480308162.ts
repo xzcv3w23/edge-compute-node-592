@@ -1,0 +1,1 @@
+const util_1tyt = (d: any) => d;
